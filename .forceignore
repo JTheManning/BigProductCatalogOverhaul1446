@@ -3,7 +3,9 @@
 #
 
 package.xml
-AppSwitcher.xml
+
+# These metadata files are ignored when pulling (retrieving)
+*.appMenu
 
 # LWC configuration files
 **/jsconfig.json
