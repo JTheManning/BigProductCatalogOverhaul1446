@@ -6,6 +6,7 @@ package.xml
 
 # These metadata files are ignored when pulling (retrieving)
 *.appMenu
+*.sharingRules
 
 # LWC configuration files
 **/jsconfig.json
