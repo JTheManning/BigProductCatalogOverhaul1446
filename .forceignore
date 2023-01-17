@@ -3,6 +3,7 @@
 #
 
 package.xml
+AppSwitcher.xml
 
 # LWC configuration files
 **/jsconfig.json
