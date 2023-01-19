@@ -8,6 +8,12 @@ package.xml
 *.appMenu
 *.sharingRules
 
+# These metadata files are ignored when promoting (deploying)
+**/profiles/**
+**/profilePasswordPolicy/**
+**/profileSessionSetting/**
+
+
 # LWC configuration files
 **/jsconfig.json
 **/.eslintrc.json
