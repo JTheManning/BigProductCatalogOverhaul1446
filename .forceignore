@@ -14,6 +14,7 @@ package.xml
 **/profileSessionSetting/**
 **/ApexTrigger/**
 
+  >>>>>>> main
 # LWC configuration files
 **/jsconfig.json
 **/.eslintrc.json
