@@ -13,7 +13,7 @@ package.xml
 **/profilePasswordPolicy/**
 **/profileSessionSetting/**
 
-
+  >>>>>>> main
 # LWC configuration files
 **/jsconfig.json
 **/.eslintrc.json
