@@ -12,6 +12,7 @@ package.xml
 **/profiles/**
 **/profilePasswordPolicy/**
 **/profileSessionSetting/**
+**/apexTrigger/**
 
 # LWC configuration files
 **/jsconfig.json
